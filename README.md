@@ -24,23 +24,15 @@ Este projeto foi construído para colocar em prática conceitos avançados de ma
   - JSON (`JSON.stringify` e `JSON.parse`).
   - API de `LocalStorage`.
 
-## 📸 Capturas de Ecrã (Screenshots)
 
-**Visão Geral das Tarefas:**
-![Ecrã Principal do TaskFlow](screenshots/pagina-de-concluidos.png)
-
-**Filtro de Tarefas a funcionar:**
-![Ecrã com Filtros Ativos](screenshots/pagina-de-pendentes.png)
 
 ## 🚀 Como executar o projeto
 
 Como o projeto é estático (apenas Front-End), executá-lo é extremamente simples:
 
 1. Faça o clone deste repositório:
-   git clone https://github.com/souzadennis17/TaskFlow.git
+   [git clone https://github.com/souzadennis17/TaskFlow.git](https://souzadennis17.github.io/TaskFlow/)
 
-2. Abra a pasta do projeto.
-3. Dê um duplo clique no ficheiro `index.html` para abri-lo no seu navegador.
 
 ## 👨‍💻 Autor
 
